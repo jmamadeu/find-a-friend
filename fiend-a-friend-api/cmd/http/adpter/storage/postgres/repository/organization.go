@@ -1,8 +1,6 @@
 package repository
 
-import (
-	"fiend-a-friend/fiend-a-friend-api/cmd/http/adpter/storage/postgres"
-)
+import "find-a-friend/fiend-a-friend-api/cmd/http/adpter/storage/postgres"
 
 type Organization struct {
 	db *postgres.Db

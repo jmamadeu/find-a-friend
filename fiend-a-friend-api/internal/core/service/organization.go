@@ -3,9 +3,9 @@ package service
 import (
 	"context"
 
-	"fiend-a-friend/fiend-a-friend-api/internal/core/domain"
-	"fiend-a-friend/fiend-a-friend-api/internal/port"
-	"fiend-a-friend/fiend-a-friend-api/internal/utils"
+	"find-a-friend/find-a-friend-api/internal/core/domain"
+	"find-a-friend/find-a-friend-api/internal/port"
+	"find-a-friend/find-a-friend-api/internal/utils"
 
 	"github.com/google/uuid"
 )

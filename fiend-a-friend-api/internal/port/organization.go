@@ -3,7 +3,7 @@ package port
 import (
 	"context"
 
-	"fiend-a-friend/fiend-a-friend-api/internal/core/domain"
+	"find-a-friend/find-a-friend-api/internal/core/domain"
 )
 
 type OrganizationRepository interface {
